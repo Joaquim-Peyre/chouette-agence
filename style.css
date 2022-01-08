@@ -440,7 +440,7 @@ nav .caret {
 
 .mg-md {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .mg-lg {
@@ -770,8 +770,9 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
+    padding-top: 50px;
     position:fixed;
-    height: 100px;
+    height: 250px;
     bottom: 0px;
     left: 0px;
     right: 0px;
