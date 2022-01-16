@@ -5,7 +5,6 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    margin-bottom: 50px;
 }
 
 a,
@@ -277,6 +276,7 @@ a:hover {
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
+    margin-top: 50px;
 }
 
 .row.row-no-gutters > [class^="col-"],
@@ -447,7 +447,7 @@ nav .caret {
     margin-top: 10px;
     margin-bottom: 40px;
 }
-
+git s
 .btn {
     margin: 0 5px 5px 0;
 }
@@ -771,8 +771,6 @@ h4 {
 .bgc-atomic-tangerine {
     background-color: #F3976C;
     padding-top: 50px;
-    position:fixed;
-    height: 250px;
     bottom: 0px;
     left: 0px;
     right: 0px;
