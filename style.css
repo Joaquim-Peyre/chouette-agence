@@ -654,7 +654,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
 }
 
 .container {
@@ -736,7 +735,12 @@ h4 {
 .white {
     color: #0E1A44!important;
 }
-
+.cyan{
+    color: #90E4FD;
+}
+.black{
+    color: black;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
